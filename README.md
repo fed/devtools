@@ -32,6 +32,7 @@
 - https://regexper.com/
 - https://regex101.com/
 - https://ihateregex.io/
+- https://www.regexpal.com/
 
 ## FRP
 
